@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vijayvaru/leetcode1/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Vijayvaru/leetcode1/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
