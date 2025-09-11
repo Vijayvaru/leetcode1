@@ -18,5 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vijayvaru/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Vijayvaru/leetcode1/tree/master/0006-zigzag-conversion) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vijayvaru/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vijayvaru/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
