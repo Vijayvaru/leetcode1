@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vijayvaru/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Vijayvaru/leetcode1/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Vijayvaru/leetcode1/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Vijayvaru/leetcode1/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/Vijayvaru/leetcode1/tree/master/0257-binary-tree-paths) |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vijayvaru/leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vijayvaru/leetcode1/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vijayvaru/leetcode1/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
