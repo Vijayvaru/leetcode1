@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vijayvaru/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vijayvaru/leetcode1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vijayvaru/leetcode1/tree/master/0013-roman-to-integer) |
+| [3678-design-task-manager](https://github.com/Vijayvaru/leetcode1/tree/master/3678-design-task-manager) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vijayvaru/leetcode1/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Vijayvaru/leetcode1/tree/master/3678-design-task-manager) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Vijayvaru/leetcode1/tree/master/3678-design-task-manager) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Vijayvaru/leetcode1/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
