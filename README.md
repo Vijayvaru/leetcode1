@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Vijayvaru/leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Vijayvaru/leetcode1/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vijayvaru/leetcode1/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Vijayvaru/leetcode1/tree/master/0031-next-permutation) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vijayvaru/leetcode1/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vijayvaru/leetcode1/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vijayvaru/leetcode1/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vijayvaru/leetcode1/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Vijayvaru/leetcode1/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
