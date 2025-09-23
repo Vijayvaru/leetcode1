@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vijayvaru/leetcode1/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Vijayvaru/leetcode1/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Vijayvaru/leetcode1/tree/master/0024-swap-nodes-in-pairs) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vijayvaru/leetcode1/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Vijayvaru/leetcode1/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Vijayvaru/leetcode1/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Vijayvaru/leetcode1/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Vijayvaru/leetcode1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vijayvaru/leetcode1/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vijayvaru/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vijayvaru/leetcode1/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Vijayvaru/leetcode1/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Vijayvaru/leetcode1/tree/master/0022-generate-parentheses) |
 ## Sorting
 |  |
